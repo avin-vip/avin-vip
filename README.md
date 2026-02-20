@@ -1,6 +1,6 @@
 # ☕️ About Me:
-Honors CS student at UMass Amherst | ICONs Fellow
-Interested in machine learning, applied AI, and scalable systems.
+Honors CS student at UMass Amherst | ICONs Fellow \
+Interested in ML, RL, applied AI, and scalable systems.\
 Currently building projects that connect research ideas with real-world deployment.
 
 
