@@ -4,6 +4,7 @@ AI Product Manager @BUILD \
 Ugrad researcher @AHHA lab \
 Honors CS at UMass Amherst | ICONs Fellow \
 Interested in ML, RL, applied AI, and neural network \
+Specialty coffee enthusiast 
 
 
 
