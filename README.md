@@ -1,7 +1,10 @@
 # ☕️ About Me:
-Honors CS student at UMass Amherst | ICONs Fellow \
-Interested in ML, RL, applied AI, and scalable systems.\
-Currently building projects that connect research ideas with real-world deployment.
+Private Fund AI Engineer Intern @InnovestX \
+AI Product Manager @BUILD \
+Ugrad researcher @AHHA lab \
+Honors CS at UMass Amherst | ICONs Fellow \
+Interested in ML, RL, applied AI, and neural network \
+
 
 
 ## 🌐 Socials:
